@@ -1,3 +1,27 @@
+# 网站地址
+
+<ul>
+<li><strong>vercel：</strong>https://miaotool-nav.vercel.app/</li>
+<li><strong>netlify：</strong>https://newstyle-miaotool.netlify.app//</li>
+</ul>
+
+# 修改首页信息
+[修改地址：page页面](https://github.com/cheng01315/miaotool-nav-next.js/blob/main/src/app/page.tsx)
+
+<p>修改return下方的信息</p>
+  
+# 部署方法
+[部署方法](https://docs.pintree.io/en/guide/open-source)
+
+# 我的个人新导航网站
+<strong>https://miaonav.top</strong>
+
+<br/>
+<div align="center">
+<strong>-------本项目基于以下项目进行修改，下方为原项目信息--------</strong>
+</div>
+<br/>
+
 # Pintree
 
 <div align="center">
