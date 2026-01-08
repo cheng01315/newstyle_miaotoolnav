@@ -2,7 +2,7 @@
 
 <ul>
 <li><strong>vercel：</strong>https://miaotool-nav.vercel.app/</li>
-<li><strong>vercel：</strong>https://newmiaonav.netlify.app/</li>
+<li><strong>netlify：</strong>https://newmiaonav.netlify.app/</li>
 </ul>
 
 # 修改首页信息
