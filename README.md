@@ -1,8 +1,8 @@
 # 网站地址
 
-
 <ul>
 <li><strong>vercel：</strong>https://miaotool-nav.vercel.app/</li>
+<li><strong>vercel：</strong>https://newmiaonav.netlify.app/</li>
 </ul>
 
 # 修改首页信息
@@ -13,9 +13,11 @@
 # 部署方法
 [部署方法](https://docs.pintree.io/en/guide/open-source)
 
+
+
 <br/>
 <div align="center">
--------以下为原项目信息:--------
+<strong>-------本项目基于以下项目进行修改--------</strong>
 </div>
 <br/>
 
