@@ -3,6 +3,7 @@
 
 <ul>
 <li><strong>vercel：</strong>https://miaotool-nav.vercel.app/</li>
+<li><strong>我的新网站：</strong>https://miaotool-nav.vercel.app/</li>
 </ul>
 
 # 修改首页信息
